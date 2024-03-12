@@ -213,7 +213,7 @@ tab.BackgroundTransparency = 1
 tab.Size = UDim2.new(0.95, 0, 0.025, 0)
 
 Close.Name = "Close"
-Close.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+Close.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Close.BackgroundTransparency = 1
 Close.BorderSizePixel = 0
 Close.Position = UDim2.new(0.8, 0, 0.1, 0)
