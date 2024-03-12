@@ -66,7 +66,7 @@ UICorner.Parent = Main
 
 Intro.Name = "Intro"
 Intro.Parent = Main
-Intro.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+Intro.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Intro.ClipsDescendants = true
 Intro.Size = UDim2.new(1, 0, 1, 0)
 Intro.ZIndex = 2
