@@ -56,7 +56,7 @@ Main.Parent = Arceus
 Main.Active = true
 Main.Draggable = true
 Main.AnchorPoint = Vector2.new(0.5, 0.5)
-Main.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
+Main.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Main.BorderSizePixel = 0
 Main.Position = UDim2.new(0.5, 0, -0.2, 0) --UDim2.new(0.5, 0, 0.5, 0)
 Main.Size = UDim2.new(0.3, 0, 0.3, 0)
@@ -213,7 +213,7 @@ tab.BackgroundTransparency = 1
 tab.Size = UDim2.new(0.95, 0, 0.025, 0)
 
 Close.Name = "Close"
-Close.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Close.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Close.BackgroundTransparency = 1
 Close.BorderSizePixel = 0
 Close.Position = UDim2.new(0.8, 0, 0.1, 0)
