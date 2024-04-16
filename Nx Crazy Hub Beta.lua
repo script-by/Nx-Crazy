@@ -18,7 +18,7 @@ local theme2
 local theme3
 local toolight = false
     for i,v in pairs(game.CoreGui:GetChildren()) do
-if v.Name == "By Shaddow" then
+if v.Name == "By Nx-Crazy" then
         v:Destroy()
     end
 end
@@ -78,7 +78,7 @@ local TextLabel = Instance.new("TextLabel")
 
 --Properties:
 
-Screen.Name = "By Shaddow"
+Screen.Name = "By Nx-Crazy"
 Screen.Parent = game:WaitForChild("CoreGui")
 Screen.Enabled = true
 
@@ -117,7 +117,7 @@ Toggle.Size = UDim2.new(0, 15, 0, 16)
 Toggle.ImageColor3 = Color3.fromRGB(255, 255, 255)
 Toggle.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=4731371541"
 
-Main.Name = "Main"
+Main.Name = "Nx Craxy Hub"
 Main.Parent = Top
 Main.AnchorPoint = Vector2.new(0.5, 0.5)
 Main.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
