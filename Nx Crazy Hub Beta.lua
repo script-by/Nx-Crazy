@@ -1,5 +1,5 @@
 -- BaconLib v1.2 by H3x0R
-_BLVersion = "1.2"
+_BLVersion = "Beta"
 _BLChangelog = [[
     v1.1:
         Added keybinds, sliders, and you have asked, so you got dropdowns too!
