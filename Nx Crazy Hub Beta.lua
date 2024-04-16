@@ -117,10 +117,10 @@ Toggle.Size = UDim2.new(0, 15, 0, 16)
 Toggle.ImageColor3 = Color3.fromRGB(255, 255, 255)
 Toggle.Image = "https://www.roblox.com/Thumbs/Asset.ashx?width=420&height=420&assetId=4731371541"
 
-Main.Name = "Nx Craxy Hub"
+Main.Name = "Nx Craxy Main"
 Main.Parent = Top
 Main.AnchorPoint = Vector2.new(0.5, 0.5)
-Main.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+Main.BackgroundColor3 = Color3.fromRGB(128, 0, 128)
 Main.BackgroundTransparency = 1.000
 Main.Position = UDim2.new(0.5, 0, 6.75571394, 0)
 Main.Size = UDim2.new(0, 558, 0, 298)
