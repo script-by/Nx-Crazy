@@ -61,8 +61,8 @@ elseif theme == "Crimson" then
     print("Theme selected: "..theme)
 elseif theme == "Mx" then
     theme1 = Color3.fromRGB(255, 0, 0)
-    theme2 = Color3.fromRGB(1, 0, 0)
-    theme3 = Color3.fromRGB(0, 1, 0)
+    theme2 = Color3.fromRGB(0, 0, 0)
+    theme3 = Color3.fromRGB(128, 0, 0)
     print("Theme selected: "..theme)
 end
 
